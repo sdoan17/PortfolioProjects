@@ -1,4 +1,4 @@
-# 🧠 Portfolio Projects by Minh Pham
+# 🧠 Portfolio Projects by Simon Doan
 
 Welcome to my public portfolio! This repository showcases a variety of data science and analytics projects I’ve completed to demonstrate my skills in data wrangling, visualization, machine learning, SQL analysis, and web systems.
 
