@@ -13,7 +13,7 @@ Welcome to my public portfolio! This repository showcases a variety of data scie
 - Performed customer clustering for targeted marketing
 - Visualized behavioral patterns for strategic recommendations
 
-### 🌫️ Open Air Quality Data Pipeline
+### 🌫️ [Open Air Quality Data Pipeline](./live_air_quality_dash)
 **Focus**: Real-time data pipeline for ingesting and visualizing public air quality data
 **Tools**: Python, DuckDB, Jinja2, Plotly Dash
 **Highlights**:
