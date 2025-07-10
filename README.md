@@ -22,23 +22,6 @@ Welcome to my public portfolio! This repository showcases a variety of data scie
 -Visualizes live data using an interactive dashboard built with Dash
 -Emphasizes modular design and real-world data engineering principles
 
-### 🍽️ [Restaurant Online Booking System](./Restaurant%20Online%20Booking%20System)
-**Focus**: Full-stack system for restaurant reservations  
-**Tools**: Web development stack (likely HTML, CSS, JS, Flask/Django if backend is included)  
-**Highlights**:
-- Enables customers to book tables online
-- Demonstrates back-end handling of reservations
-
-### ✈️ [Travel Agency](./Travel%20Agency)
-**Focus**: A data analysis or web-based management system for travel planning  
-
-### 📊 Covid Exploration
-**File**: `Covid Exploration.sql`  
-**Focus**: SQL-based data exploration of COVID-19 dataset  
-**Highlights**:
-- Querying pandemic data using SQL
-- Identifying trends and patterns through SQL analytics
-
 ### 📈 Covid Visualization (Tableau)
 **File**: `Covid Visualization (Tableau Queries).sql`  
 **Focus**: Backend SQL for Tableau dashboards  
