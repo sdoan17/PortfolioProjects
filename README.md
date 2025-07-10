@@ -13,6 +13,15 @@ Welcome to my public portfolio! This repository showcases a variety of data scie
 - Performed customer clustering for targeted marketing
 - Visualized behavioral patterns for strategic recommendations
 
+### 🌫️ Open Air Quality Data Pipeline
+**Focus**: Real-time data pipeline for ingesting and visualizing public air quality data
+**Tools**: Python, DuckDB, Jinja2, Plotly Dash
+**Highlights**:
+-Extracts air quality data from OpenAQ’s public S3 bucket
+-Transforms and stores the data in DuckDB for analytics
+-Visualizes live data using an interactive dashboard built with Dash
+-Emphasizes modular design and real-world data engineering principles
+
 ### 🍽️ [Restaurant Online Booking System](./Restaurant%20Online%20Booking%20System)
 **Focus**: Full-stack system for restaurant reservations  
 **Tools**: Web development stack (likely HTML, CSS, JS, Flask/Django if backend is included)  
@@ -66,6 +75,7 @@ This portfolio demonstrates my practical experience in:
 
 ## 🙌 Let's Connect
 
-Feel free to explore each folder for project-specific documentation, notebooks, and insights. Questions or feedback? Reach out on [LinkedIn](https://www.linkedin.com/) or message me via GitHub!
+Feel free to explore each folder for project-specific documentation, notebooks, and insights. Questions or feedback? Reach out on [LinkedIn](www.linkedin.com/in/
+simon-doan-analyst) or message me via GitHub!
 
 ---
