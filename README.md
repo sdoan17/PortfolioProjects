@@ -75,7 +75,6 @@ This portfolio demonstrates my practical experience in:
 
 ## 🙌 Let's Connect
 
-Feel free to explore each folder for project-specific documentation, notebooks, and insights. Questions or feedback? Reach out on [LinkedIn](www.linkedin.com/in/
-simon-doan-analyst) or message me via GitHub!
+Feel free to explore each folder for project-specific documentation, notebooks, and insights. Questions or feedback? Reach out on [LinkedIn](www.linkedin.com/in/simon-doan-analyst) or message me via GitHub!
 
 ---
