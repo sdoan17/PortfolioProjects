@@ -22,6 +22,16 @@ Welcome to my public portfolio! This repository showcases a variety of data scie
 -Visualizes live data using an interactive dashboard built with Dash
 -Emphasizes modular design and real-world data engineering principles
 
+### 🚗 [Auto MPG Regression Analysis](./auto_mpg_analysis)
+**Focus**: Regression-based horsepower prediction using exploratory data analysis and scikit-learn  
+**Tools**: Python, Pandas, Scikit-learn, Matplotlib  
+**Highlights**:
+- Cleaned and prepared raw fixed-width `.data` format into structured tabular data  
+- Performed EDA and correlation analysis to select meaningful predictors of engine horsepower  
+- Built and evaluated a linear regression model to impute missing horsepower values  
+- Compared model outputs against real-world car specs to validate predictions  
+- Proposed future work including feature engineering, advanced models, and web deployment  
+
 ### 📈 Covid Visualization (Tableau)
 **File**: `Covid Visualization (Tableau Queries).sql`  
 **Focus**: Backend SQL for Tableau dashboards  
