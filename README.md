@@ -32,8 +32,8 @@ Welcome to my public portfolio! This repository showcases a variety of data scie
 - Compared model outputs against real-world car specs to validate predictions  
 - Proposed future work including feature engineering, advanced models, and web deployment  
 
-### 📈 Covid Visualization (Tableau)
-**File**: `Covid Visualization (Tableau Queries).sql`  
+### 📈 [Covid Exploration & Visualization (SQL & Tableau)](./covid_19_exploration_&_visualization)
+**File**: `Covid Visualization (Tableau Queries).sql`  & `Covid_Exploration.sql`
 **Focus**: Backend SQL for Tableau dashboards  
 **Highlights**:
 - SQL queries that power Tableau COVID dashboards
